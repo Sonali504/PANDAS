@@ -23,5 +23,6 @@ Pandas have basically three structures:
 In the real world, a Pandas series will be created by loading the datasets from existing storage, which can be a SQL database, a CSV file, or an Excel file. Pandas Series can be created from lists, dictionaries, scalar values, etc.
 <br>
 <b>example</b>
+<br>
 import as pandas
 
