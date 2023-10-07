@@ -12,7 +12,7 @@ Pandas were initially developed by Wes McKinney in 2008. Pandas is an <b>open-so
 <br>
 <b> DATA STRUCTURES OF PANDAS</b>
 <br>
-Pandas have basically three structures:
+Pandas have basically three structures:<br>
 1. Series
 2. DataFrame
 3. Panel
