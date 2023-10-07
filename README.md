@@ -17,7 +17,7 @@ Pandas have basically three structures:<br>
 2. DataFrame <br>
 3. Panel <br>
 
-<b>1. Series: </b> A Pandas series is like a column in a table.A series is a one-dimensional array-like structure with homogenous data.
-Creating a Series:-<br>
+<b>1. Series: </b> A Pandas series is like a column in a table.A series is a one-dimensional array-like structure with homogenous data. <br>
+**Creating a Series:-<br>
 In the real world, a Pandas series will be created by loading the datasets from existing storage, which can be a SQL Database, CSV file, or an Excel file. Pandas Series can be created from lists, dictionaries, scalar values, etc.
 
