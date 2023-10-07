@@ -7,5 +7,6 @@ Pandas were initially developed by Wes McKinney in 2008. Pandas is an <b>open-so
 <br>
 1. Fast and efficient for manipulating and analyzing data.<br>
 2. Data from the different file objects can be easily loaded.<br>
-3.
+3. High performance and merging the data.
+4. 
 
